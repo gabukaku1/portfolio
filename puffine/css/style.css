@@ -701,6 +701,7 @@ footer p {
   background: #fdfd;
   margin-top: 64px;
   font-weight: 700;
+  z-index: 2;
 }
 
 .spmenu li {
